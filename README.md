@@ -1,4 +1,4 @@
-# Dnevna_doza
+# Dnevna doza
 Ideja ove aplikacije je korisniku uljepšati dan.<br />
 Aplikacija korisniku omogučava izbor viceva o Chuck Norrisu i slike pasa.<br />
 
