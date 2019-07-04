@@ -9,7 +9,7 @@ Za login u aplikaciju koristi se Google Sign in.<br />
 [Mock dizajn](https://ninjamock.com/s/XB985Sx)<br />
 <br />
 
-# APIji koji su korišteni u aplikaciji
+# API-i koji su korišteni u aplikaciji
 API sa slikama pasa -> [Psi](https://dog.ceo/dog-api/) <br />
 <br />
 API s vicevima o Chuck Norrisu -> [Vicevi](https://api.chucknorris.io/) <br />
