@@ -6,15 +6,21 @@ Za login u aplikaciju koristi se Google Sign in.<br />
 <br />
 
 # Mock dizajn aplikacije
-https://ninjamock.com/s/XB985Sx<br />
+[Mock dizajn](https://ninjamock.com/s/XB985Sx)<br />
 <br />
 
 # APIji koji su korišteni u aplikaciji
-https://dog.ceo/dog-api/ <br />
+API sa slikama pasa -> [Psi](https://dog.ceo/dog-api/) <br />
 <br />
-https://api.chucknorris.io/ <br />
+API s vicevima o Chuck Norrisu -> [Vicevi](https://api.chucknorris.io/) <br />
 <br />
 
 # Video zapis aplikacije u radu
+Klikni na sliku
+
+[![Watch the video](media/slika2.png)](media/Screenrecorder-2019-06-18-16-49-59-987.mp4)
+
+
+
 
 # PowerPoint prezentacija aplikacije 
