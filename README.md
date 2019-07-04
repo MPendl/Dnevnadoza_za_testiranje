@@ -22,3 +22,5 @@ Klikni na sliku
 <br />
 
 # PowerPoint prezentacija aplikacije 
+
+ [Prezentacija](http://tiny.cc/g2j98y)
