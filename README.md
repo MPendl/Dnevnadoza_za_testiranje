@@ -18,9 +18,7 @@ API s vicevima o Chuck Norrisu -> [Vicevi](https://api.chucknorris.io/) <br />
 # Video zapis aplikacije u radu
 Klikni na sliku
 
-[![Watch the video](media/slika2.png)](https://streamable.com/juwus)
-
-
-
+[![Watch the video](media/slika2.png)](https://streamable.com/juwus)<br />
+<br />
 
 # PowerPoint prezentacija aplikacije 
