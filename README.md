@@ -35,4 +35,4 @@ Klikni na sliku
 
 ## PowerPoint prezentacija aplikacije 
 
- [PowerPoint Prezentacija](http://tiny.cc/g2j98y)
+ [PowerPoint prezentacija](http://tiny.cc/g2j98y)
