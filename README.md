@@ -1,4 +1,4 @@
-# Aplikacija Dnevna doza
+# Aplikacija Dnevna doza ![](media/CN.png) 
 
 ## Sadržaj
 * [O aplikaciji](#o-aplikaciji)
