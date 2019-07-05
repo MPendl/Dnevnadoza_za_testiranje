@@ -16,7 +16,8 @@ Za login u aplikaciju koristi se Google Sign in.<br />
 <br />
 
 ## Mock dizajn aplikacije
-Mock dizajn aplikacije je napravljen s online alatom NinjaMock
+Mock dizajn aplikacije je napravljen s online alatom NinjaMock<br />
+<br />
 [Mock dizajn](https://ninjamock.com/s/XB985Sx)<br />
 <br />
 
@@ -34,4 +35,4 @@ Klikni na sliku
 
 ## PowerPoint prezentacija aplikacije 
 
- [Prezentacija](http://tiny.cc/g2j98y)
+ [PowerPoint Prezentacija](http://tiny.cc/g2j98y)
