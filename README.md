@@ -32,7 +32,7 @@ API s vicevima o Chuck Norrisu -> [Vicevi](https://api.chucknorris.io/) <br />
 <br />
 
 ## Video zapis aplikacije u radu
-Klikni na sliku
+Za pokretanje videa **_Klikni na sliku_**
 
 [![Watch the video](media/slika2.png)](https://streamable.com/juwus)<br />
 <br />
